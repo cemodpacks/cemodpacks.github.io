@@ -1,10 +1,7 @@
 # CE Modpacks
-## We Create Modpacks
-
---------------------------
-
-## Not Only That...
-We Even Made A Fully Customizable Modpack, Called Overloadedcraft, So You Can Play A Customized Game Of Modded Minecraft On Any PC
+## We Create Modpacks, But Not Just Any Modpacks
+-
+We Made A Fully Customizable Modpack, Called Overloadedcraft, So You Can Play A Customized Game Of Modded Minecraft On Any PC
 ----------------------------
 ### The Way It Works?...
 
